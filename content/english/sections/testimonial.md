@@ -1,29 +1,31 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "Do you know anything about wheat?"
+description: "小麦（学名：Triticum aestivum L.）是禾本科、小麦属一年或越年生草本草本植物。 秆直立，丛生，高可达100厘米，叶鞘松弛包茎，叶舌膜质，叶片长披针形。穗状花序直立，小穗含多小花，颖卵圆形，外稃长圆状披针形，内稃与外稃几等长。花果期5-7月。中国南北各地广为栽培，品种很多，性状均有所不同。土层深厚，结构良好耕层较深，有利于蓄水保肥，促进根系发育。经过长期的发展，已经成为世界上分布最广、面积最大、总产量第二、贸易额最多、营养价值最高的粮食作物之一。小麦是一种营养丰富、经济价值较高的商品粮。小麦的颖果是人类的主食之一，磨成面粉后可制作面包、馒头、饼干、面条等食物，发酵后可制成啤酒、酒精、白酒（如伏特加）。面粉除供人类食用外，少量用来生产淀粉、乙醇、面筋等。小麦的淀粉还有消炎、止疼、祛湿的作用，还可用作药物的基础剂。小麦的面筋可用于制造味精。"
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "农大211"
+    designation: "小麦品种"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "小麦品种，成熟期比京411晚1-2天。幼苗半匍匐，苗色深绿，分蘖力较强，成穗率较高，株高80厘米左右。穗纺锤形，长芒、白壳、白粒，籽粒短圆形，角质，饱满度较好，千粒重40克左右。
+"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "徐麦44"
+    designation: "小麦品种"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "徐麦44是江苏徐淮地区徐州农业科学研究所利用徐麦7048和徐麦32杂交后选育的小麦品种。
+徐麦44为弱春性品种，全生育期228.2天，幼苗半匍匐，叶片窄，叶色绿，分蘖力中等，株型较松散，抗倒性较好，整齐度好，穗长方形，长芒，白粒，籽粒硬质，高感小麦纹枯病，高感小麦赤霉病，高感小麦白粉病，高感小麦条锈病，中感小麦叶锈病。"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "烟农5160"
+    designation: "小麦品种"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "烟农5160是烟台市农业科学研究院轩烟航选2号为母本，烟农15号为父本杂交,经空间诱变处理，系统选育而成。"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "豫农416"
+    designation: "小麦品种"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "豫农416，属半冬性多穗型中熟品种，全生育期225天，比对照周麦18早熟2天。幼苗半匍匐，苗势壮，分蘖力强，抗寒性较好；春季起身快，拔节抽穗早，长势偏旺，春季抗寒性一般；株高84cm，株型偏松散，抗倒性一般；穗层较厚，对春季低温较敏感，受倒春寒的影响，穗上部结实性下降；纺锤型大穗，长芒，护颖白色，籽粒白粒，角质，饱满，成熟落黄好。平均亩穗数38.0万，穗粒数34.6粒，千粒重48.6克。"
 
 # don't create a separate page
 _build:
