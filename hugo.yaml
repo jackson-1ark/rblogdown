@@ -1,6 +1,6 @@
 theme: hugoplate
 baseURL: /
-title: Hugoplate
+title: Wheatinfo
 timeZone: America/New_York
 paginate: 2
 summaryLength: 10

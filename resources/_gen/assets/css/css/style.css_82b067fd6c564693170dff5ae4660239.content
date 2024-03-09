@@ -564,7 +564,7 @@ select {
   outline: 1px auto -webkit-focus-ring-color;
 }
   html {
-  font-size: 16px;
+  font-size: 20px;
 }
   body {
   --tw-bg-opacity: 1;
@@ -604,45 +604,45 @@ select {
 }
   h1,
   .h1 {
-  font-size: 2.44140625rem;
+  font-size: 1.2884080000000007rem;
 }
   @media (min-width: 768px) {
 
   h1,
   .h1 {
-    font-size: 3.0517578125rem;
+    font-size: 1.6105100000000008rem;
   }
 }
   h2,
   .h2 {
-  font-size: 1.953125rem;
+  font-size: 1.1712800000000005rem;
 }
   @media (min-width: 768px) {
 
   h2,
   .h2 {
-    font-size: 2.44140625rem;
+    font-size: 1.4641000000000006rem;
   }
 }
   h3,
   .h3 {
-  font-size: 1.5625rem;
+  font-size: 1.0648000000000004rem;
 }
   @media (min-width: 768px) {
 
   h3,
   .h3 {
-    font-size: 1.953125rem;
+    font-size: 1.3310000000000004rem;
   }
 }
   h4,
   .h4 {
-  font-size: 1.5625rem;
+  font-size: 1.2100000000000002rem;
   font-weight: 500;
 }
   h5,
   .h5 {
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   font-weight: 500;
 }
   h6,
@@ -1440,30 +1440,30 @@ main {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 .content :is(:where(h1):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-  font-size: 2.44140625rem;
+  font-size: 1.2884080000000007rem;
 }
 @media (min-width: 768px) {
 
   .content :is(:where(h1):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-    font-size: 3.0517578125rem;
+    font-size: 1.6105100000000008rem;
   }
 }
 .content :is(:where(h2):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-  font-size: 1.953125rem;
+  font-size: 1.1712800000000005rem;
 }
 @media (min-width: 768px) {
 
   .content :is(:where(h2):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-    font-size: 2.44140625rem;
+    font-size: 1.4641000000000006rem;
   }
 }
 .content :is(:where(h3):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-  font-size: 1.5625rem;
+  font-size: 1.0648000000000004rem;
 }
 @media (min-width: 768px) {
 
   .content :is(:where(h3):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-    font-size: 1.953125rem;
+    font-size: 1.3310000000000004rem;
   }
 }
 .content :is(:where(img):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
@@ -1480,7 +1480,7 @@ main {
   border-color: rgb(62 62 62 / var(--tw-border-opacity));
 }
 .content :is(:where(p):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-  font-size: 16px;
+  font-size: 20px;
   --tw-text-opacity: 1;
   color: rgb(68 68 68 / var(--tw-text-opacity));
 }
@@ -1660,8 +1660,8 @@ input#nav-toggle:checked ~ #nav-menu {
 .header {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 :is(.dark .header) {
   --tw-bg-opacity: 1;
@@ -2021,21 +2021,21 @@ input#nav-toggle:checked ~ #nav-menu {
 .fill-current {
   fill: currentColor;
 }
+.px-2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
 .px-7 {
   padding-left: 1.75rem;
   padding-right: 1.75rem;
 }
-.px-8 {
-  padding-left: 2rem;
-  padding-right: 2rem;
+.py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
 }
 .py-10 {
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
-}
-.py-14 {
-  padding-top: 3.5rem;
-  padding-bottom: 3.5rem;
 }
 .py-7 {
   padding-top: 1.75rem;
@@ -2067,7 +2067,7 @@ input#nav-toggle:checked ~ #nav-menu {
   font-size: 8rem;
 }
 .text-h3 {
-  font-size: 1.953125rem;
+  font-size: 1.3310000000000004rem;
 }
 .text-xl {
   font-size: 1.25rem;
@@ -3295,7 +3295,7 @@ input#nav-toggle:checked ~ #nav-menu {
   }
 
   .lg\:text-h1 {
-    font-size: 3.0517578125rem;
+    font-size: 1.6105100000000008rem;
   }
 }
 

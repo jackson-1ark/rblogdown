@@ -93,7 +93,7 @@
   input#nav-toggle:checked ~ #nav-menu {
     @apply block; }
   .header {
-    @apply bg-body dark:bg-darkmode-body py-6; }
+    @apply bg-body dark:bg-darkmode-body py-4; }
   .navbar {
     @apply relative flex flex-wrap items-center justify-between; }
   .navbar-brand {
