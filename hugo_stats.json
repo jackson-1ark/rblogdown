@@ -8,6 +8,7 @@
       "br",
       "button",
       "div",
+      "em",
       "footer",
       "form",
       "h1",
@@ -224,7 +225,6 @@
       "email",
       "gathering-of-personal-information",
       "hide-button",
-      "link",
       "message",
       "name",
       "nav-menu",
@@ -235,7 +235,8 @@
       "responsibility-of-contributors",
       "search-modal-input",
       "show-button",
-      "theme-switcher"
+      "theme-switcher",
+      "websites-related-to-wheat"
     ]
   }
 }
