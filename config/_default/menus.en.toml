@@ -12,16 +12,22 @@ url = "about/"
 weight = 2
 
 [[main]]
+weight = 3
+name = "L&V"
+hasChildren = true
+
+[[main]]
 name = "NEWS"
 url = "news/"
 weight = 4
 
 [[main]]
-name = "VARIETIES"
-url = "varieties/"
-weight = 3 
-
-[[main]]
+parent = "L&V"
 name = "LITERATURE"
 url = "Literature/"
-weight = 3 
+
+
+[[main]]
+parent = "L&V"
+name = "VARIETIES"
+url = "varieties/"
