@@ -3,52 +3,37 @@
   <channel>
     <title>Wheatinfo</title>
     <link>/</link>
-    <description>Recent content on Hugoplate</description>
+    <description>Recent content on Wheatinfo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to build an Application with modern Technology</title>
-      <link>/blog/post-1/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>/blog/post-1/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
-    </item>
-    <item>
-      <title>How to build an Application with modern Technology</title>
-      <link>/blog/post-2/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>/blog/post-2/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
-    </item>
-    <item>
-      <title>How to build an Application with modern Technology</title>
-      <link>/blog/post-3/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>/blog/post-3/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
-    </item>
-    <item>
-      <title>How to build an Application with modern Technology</title>
-      <link>/blog/post-4/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>/blog/post-4/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
-    </item>
-    <item>
-      <title>Elements</title>
-      <link>/elements/</link>
+      <title></title>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/elements/</guid>
-      <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
+      <guid>/about/</guid>
+      <description>Websites related to wheat 1.WheatOmics 2.中国农业大学小麦研究中心 3.小麦产业网 4.International Wheat Genome Sequencing Consortium, (IWGSC) 5.</description>
     </item>
     <item>
-      <title>John Doe</title>
-      <link>/authors/john-doe/</link>
+      <title>Do you know anything about wheat?</title>
+      <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/john-doe/</guid>
-      <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Literature</title>
+      <link>/literature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/literature/</guid>
+      <description>Effects of ten years organic and conventional farming on early seedling traits of evolving winter wheat composite cross populations Microdochium majus and other fungal pathogens associated with reduced gluten quality in wheat grain Genetic Variability and Aggressiveness of Tilletia indica Isolates Causing Karnal Bunt in Wheat Biology, taxonomy, genetics, and management of Zymoseptoria tritici: the causal agent of wheat leaf blotch Influence of Mineralized Water Sources on the Properties of Calcisol and Yield of Wheat (Triticum aestivum L.</description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/news/</guid>
+      <description>News 非原创，自微信公众号转载&#xA;育种家有话说|野生二粒小麦抗白粉病基因挖掘与育种应用探讨 育种家有话说 | 说小麦的矮杆早熟 NC | 小麦生育期和组织依赖白粉病抗性机制被发现 论坛通知|小麦族基因组学与分子育种国际论坛（2024 第I期） Plant Phenomics | 南京农业大学基于WheatNet的灌浆期和成熟期麦穗定向检测 原创解读∣454份普通小麦中含有超过两万个外源渗入片段和多个种内亚基因组间易位 原创解读∣秸秆处理与磷肥施用对水稻-小麦系统产量和土壤健康的长期影响 2024年第3周小麦英文文献汇总（2024-01-21) JIA | 中国科学院成都生物研究所王涛研究员课题组鉴定到小麦千粒重主效QTL QTGW.</description>
     </item>
     <item>
       <title>Privacy</title>
@@ -58,32 +43,11 @@
       <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     <item>
-      <title>Ready to build your next project with Hugo?</title>
-      <link></link>
+      <title>varieties</title>
+      <link>/varieties/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
+      <guid>/varieties/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Sam Wilson</title>
-      <link>/authors/sam-wilson/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/sam-wilson/</guid>
-      <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    <item>
-      <title>What Users Are Saying About Hugoplate</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
-      <description></description>
-    </item>
-    <item>
-      <title>William Jacob</title>
-      <link>/authors/william-jacob/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/william-jacob/</guid>
-      <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 ---
-title: "品种"
+title: "varieties"
 # meta title
 meta_title: ""
 # meta description
