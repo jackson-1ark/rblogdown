@@ -27,11 +27,6 @@
 {{ end }}
 <!-- /check content image -->
 
-<!-- check asset image -->
-{{ if fileExists (add `assets/` (string $imagePath)) }}
-  {{ $assetImage = true }}
-{{ end }}
-<!-- /check asset image -->
 
 <!-- image static/CDN -->
 {{ if or (hasPrefix $imagePath "http") (fileExists (add `static/` (string $imagePath))) }}
