@@ -2,7 +2,7 @@ theme: hugoplate
 baseURL: /
 title: Wheatinfo
 timeZone: America/New_York
-paginate: 2
+paginate: 100
 summaryLength: 10
 disableLanguages: []
 hasCJKLanguage: no

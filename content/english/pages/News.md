@@ -1,17 +1,4 @@
----
-title: "News"
-# meta title
-meta_title: ""
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
-
-News
-=====
-非原创，自微信公众号转载  
-[育种家有话说|野生二粒小麦抗白粉病基因挖掘与育种应用探讨](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519844&idx=1&sn=4550293d119e4ab7c69f779876658521&chksm=e8be85047a3677c9569550d7edb62569ba28f06f3355ba9738fe5fb2b3f3f600ec42825ede19&scene=27#wechat_redirect)  
+﻿[育种家有话说|野生二粒小麦抗白粉病基因挖掘与育种应用探讨](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519844&idx=1&sn=4550293d119e4ab7c69f779876658521&chksm=e8be85047a3677c9569550d7edb62569ba28f06f3355ba9738fe5fb2b3f3f600ec42825ede19&scene=27#wechat_redirect)  
 [育种家有话说 | 说小麦的矮杆早熟](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519852&idx=1&sn=a8c35bc34a919f140174f988a8639efa&chksm=e880dd02a96b943298ddc390254622f7692413281a9c64789de15dbee340b095f19b6ae94de3&scene=27#wechat_redirect)  
 [NC | 小麦生育期和组织依赖白粉病抗性机制被发现](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519973&idx=1&sn=767dc60502bc7f8b6fe3b1885fc7fa49&chksm=e830f391e33808ee3b90235ac6a34d630d7293e68533cfb66ee7bc3db09da3894542c71d46d5&scene=27#wechat_redirect)  
 [论坛通知|小麦族基因组学与分子育种国际论坛（2024 第I期）](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519989&idx=2&sn=2a1a91b096b0a2630ced1db19b94f48f&chksm=e8d75e431c6d6eade1e76fbbc4263fb22026336cbfe9f81ba928c50726ddb0e82d6c3fbbe57c&scene=27#wechat_redirect)  

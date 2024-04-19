@@ -1,18 +1,9 @@
----
-title: "Literature"
-# meta title
-meta_title: ""
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
 1. [Effects of ten years organic and conventional farming on early seedling traits of evolving winter wheat composite cross populations](https://doi.org/10.1038/s41598-019-45300-1)  
 2. [Microdochium majus and other fungal pathogens associated with reduced gluten quality in wheat grain](https://doi.org/10.1016/j.ijfoodmicro.2020.108712)  
 3. [Genetic Variability and Aggressiveness of Tilletia indica Isolates Causing Karnal Bunt in Wheat](https://doi.org/10.3390/jof8030219)  
 4. [Biology, taxonomy, genetics, and management of Zymoseptoria tritici: the causal agent of wheat leaf blotch](https://doi.org/10.1080/21501203.2023.2241492)  
 5. [Influence of Mineralized Water Sources on the Properties of Calcisol and Yield of Wheat (Triticum aestivum L.)](https://doi.org/10.3390/plants11233291)  
-6. [Effect of spontaneous arbuscular mycorrhizal colonization in bread wheat varieties on the incidence of foliar diseases and grain yield]( 
+6. [Effect of spontaneous arbuscular mycorrhizal colonization in bread wheat varieties on the incidence of foliar diseases and grain yield](https://pubmed.ncbi.nlm.nih.gov/37739800/)
 7. [Grain yield trade-offs in spike-branching wheat can be mitigated by elite alleles affecting sink capacity and post-anthesis source activity](https://doi.org/10.1093/jxb/erad373)  
 8. [Efficiency of Wheat Straw Biochar in Combination with Compost and Biogas Slurry for Enhancing Nutritional Status and Productivity of Soil and Plant](https://doi.org/10.3390/plants9111516)  
 9. [Biocontrol of Fusarium graminearum, a Causal Agent of Fusarium Head Blight of Wheat, and Deoxynivalenol Accumulation: From In Vitro to In Planta](https://doi.org/10.3390/toxins14050299)  
