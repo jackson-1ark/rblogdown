@@ -3,7 +3,7 @@
   {{ if $image }}
     {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mb-6 w-full rounded") }}
   {{ end }}
-  <h4 class="mb-3">
+  <h4 class="mb-9">
     <a href="{{ .RelPermalink }}">
       {{ .Title }}
     </a>
@@ -13,7 +13,7 @@
     <ul class="mb-4">
       <li class="mr-4 inline-block">
         <a href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">
-          <i class="fa-regular fa-circle-user mr-2"></i>{{ .Params.author }}
+          <i class="fa-regular fa-circle-user mr-5"></i>{{ .Params.author }}
         </a>
       </li>
       <li class="mr-4 inline-block">

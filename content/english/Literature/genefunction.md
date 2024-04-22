@@ -1,4 +1,12 @@
-﻿ * [New genetic resources for aphid resistance were identified from a newly developed wheat mutant library](https://doi.org/10.1016/j.heliyon.2024.e26529)  
+---
+title: ''
+author: ''
+date: '2024-04-22'
+slug: genefunction
+categories: []
+tags: []
+---
+ * [New genetic resources for aphid resistance were identified from a newly developed wheat mutant library](https://doi.org/10.1016/j.heliyon.2024.e26529)  
  * [Genome-wide identification and comprehensive analysis of the phytochrome-interacting factor (PIF) gene family in wheat](https://doi.org/10.1371/journal.pone.0296269)  
  * [Chemical-tag-based semi-annotated metabolomics facilitates gene identification and specialized metabolic pathway elucidation in wheat](https://doi.org/10.1093/plcell/koad286)  
  * [Wheat Transcriptional Corepressor TaTPR1 Suppresses Susceptibility Genes TaDND1/2 and Potentiates Post-Penetration Resistance against Blumeria graminis forma specialis tritici](https://doi.org/10.3390/ijms25031695)  
@@ -1326,3 +1334,4 @@
  * [Mapping of Novel Leaf Rust and Stem Rust Resistance Genes in the Portuguese Durum Wheat Landrace PI 192051](https://doi.org/10.1534/g3.119.400292)  
  * [Identification of Stem Rust Resistance Genes in the Winter Wheat Collection from Southern Russia](https://doi.org/10.3390/plants8120559)  
  * [A Co-Expression Network in Hexaploid Wheat Reveals Mostly Balanced Expression and Lack of Significant Gene Loss of Homeologous Meiotic Genes Upon Polyploidization](https://doi.org/10.3389/fpls.2019.01325)  
+

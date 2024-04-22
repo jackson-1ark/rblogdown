@@ -1860,20 +1860,14 @@ input#nav-toggle:checked ~ #nav-menu {
   white-space: nowrap;
   border-width: 0;
 }
-.fixed {
-  position: fixed;
-}
 .absolute {
   position: absolute;
 }
 .sticky {
   position: sticky;
 }
-.left-0 {
-  left: 0px;
-}
-.left-\[4px\] {
-  left: 4px;
+.right-\[4px\] {
+  right: 4px;
 }
 .top-0 {
   top: 0px;
@@ -1886,9 +1880,6 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .z-30 {
   z-index: 30;
-}
-.z-50 {
-  z-index: 50;
 }
 .order-1 {
   order: 1;
@@ -1950,9 +1941,6 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .h-6 {
   height: 1.5rem;
-}
-.w-\[30px\] {
-  width: 30px;
 }
 .w-full {
   width: 100%;

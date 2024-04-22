@@ -1,4 +1,12 @@
-﻿ * [Effects of Wheat Oligopeptide on the Baking and Retrogradation Properties of Bread Rolls: Evaluation of Crumb Hardness, Moisture Content, and Starch Crystallization](https://doi.org/10.3390/foods13030397)  
+---
+title: ''
+author: ''
+date: '2024-04-22'
+slug: Processing-and-utilization-of-wheat
+categories: []
+tags: []
+---
+ * [Effects of Wheat Oligopeptide on the Baking and Retrogradation Properties of Bread Rolls: Evaluation of Crumb Hardness, Moisture Content, and Starch Crystallization](https://doi.org/10.3390/foods13030397)  
  * [Cell-type proteomic and metabolomic resolution of early and late grain filling stages of wheat endosperm](https://doi.org/10.1111/pbi.14203)  
  * [Genome-wide identification and analysis of the GGCT gene family in wheat](https://doi.org/10.1186/s12864-023-09934-w)  
  * [A conditional mutation in a wheat (Triticum aestivum L.) gene regulating root morphology](https://doi.org/10.1007/s00122-024-04555-7)  
@@ -17,7 +25,6 @@
  * [Genetic analyses and prediction for lodging‑related traits in a diverse Iranian hexaploid wheat collection](https://doi.org/10.1038/s41598-023-49927-z)  
  * [Metabolic changes during wheat microspore embryogenesis induction using the highly responsive cultivar Svilena](https://doi.org/10.1016/j.jplph.2024.154193)  
  * [Effect of Coriander Seed Addition at Different Stages of Brewing on Selected Parameters of Low-Alcohol Wheat Beers](https://doi.org/10.3390/molecules29040844)  
- * [Wheat Allergy]( 
  * [Potential nutritional strategies to prevent and reverse sarcopenia in aging process: Role of fish oil-derived ω-3 polyunsaturated fatty acids, wheat oligopeptide and their combined intervention](https://doi.org/10.1016/j.jare.2023.04.005)  
  * [Characterization and transformation of TtMYB1 transcription factor from Tritipyrum to improve salt tolerance in wheat](https://doi.org/10.1186/s12864-024-10051-5)  
  * [Assessment of mycotoxin sequestration efficacy in Saccharomyces cerevisiae by-products cultured in wheat bran and whey protein medium](https://doi.org/10.1038/s41598-024-53633-9)  
@@ -26,7 +33,6 @@
  * [Predicting wheat gluten concentrations in potato starch using GPR and SVM models built by terahertz time-domain spectroscopy](https://doi.org/10.1016/j.foodchem.2023.137235)  
  * [Inhibition of Glial Activation and Subsequent Reduction in White Matter Damage through Supplementation with a Combined Extract of Wheat Bran, Citrus Peel, and Jujube in a Rat Model of Vascular Dementia](https://doi.org/10.3390/cimb46020096)  
  * [Phylogenetic and functional analyses of N(6)-methyladenosine RNA methylation factors in the wheat scab fungus Fusarium graminearum](https://doi.org/10.1128/msphere.00552-23)  
- * [Identification and investigation of barley powdery mildew (Blumeria graminis f. sp. tritici) infection in winter wheat with conventional stress reactions and non-invasive biophoton emission parameters]( 
  * [Combined Strategy Using High Hydrostatic Pressure, Temperature and Enzymatic Hydrolysis for Development of Fibre-Rich Ingredients from Oat and Wheat By-Products](https://doi.org/10.3390/foods13030378)  
  * [Nitrogen Removal from Landfill Leachate Using Biochar Derived from Wheat Straw](https://doi.org/10.3390/ma17040928)  
  * [Maiorca wheat malt: A comprehensive analysis of physicochemical properties, volatile compounds, and sensory evaluation in brewing process and final product quality](https://doi.org/10.1016/j.foodchem.2023.137517)  
@@ -1163,3 +1169,4 @@
  * [Genome-wide Analysis of bZIP Transcription Factors in wheat and Functional Characterization of a TabZIP under Abiotic Stress](https://doi.org/10.1038/s41598-019-40659-7)  
  * [Visualization of Nitric Oxide, Measurement of Nitrosothiols Content, Activity of NOS and NR in Wheat Seedlings](https://doi.org/10.21769/BioProtoc.3402)  
  * [Anammox co-fungi accompanying denitrifying bacteria are the thieves of the nitrogen cycle in paddy-wheat crop rotated soils](https://doi.org/10.1016/j.envint.2019.104913)  
+
