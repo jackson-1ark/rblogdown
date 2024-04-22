@@ -1,1 +1,2 @@
-[genefunction](content/english/Literature/genefunction.md)
+[genefunction](genefunction.md)
+[processing](Processing-and-utilization-of-wheat.md)
