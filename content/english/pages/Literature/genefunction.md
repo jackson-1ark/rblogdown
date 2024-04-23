@@ -1,3 +1,4 @@
+
  * [New genetic resources for aphid resistance were identified from a newly developed wheat mutant library](https://doi.org/10.1016/j.heliyon.2024.e26529)  
  * [Genome-wide identification and comprehensive analysis of the phytochrome-interacting factor (PIF) gene family in wheat](https://doi.org/10.1371/journal.pone.0296269)  
  * [Chemical-tag-based semi-annotated metabolomics facilitates gene identification and specialized metabolic pathway elucidation in wheat](https://doi.org/10.1093/plcell/koad286)  
@@ -10,6 +11,7 @@
  * [Unravelling the novel genetic diversity and marker-trait associations of corn leaf aphid resistance in wheat using microsatellite markers](https://doi.org/10.1371/journal.pone.0289527)  
  * [Transcriptome Profiling Reveals the Gene Network Responding to Low Nitrogen Stress in Wheat](https://doi.org/10.3390/plants13030371)  
  * [Appropriate reduction of importin-α gene expression enhances yellow dwarf disease resistance in common wheat](https://doi.org/10.1111/pbi.14204)  
+  ## gene
  * [Evaluation and identification of powdery mildew-resistant genes in 137 wheat relatives](https://doi.org/10.3389/fgene.2024.1342239)  
  * [Identification of Sr67, a new gene for stem rust resistance in KU168-2 located close to the Sr13 locus in wheat](https://doi.org/10.1007/s00122-023-04530-8)  
  * [Combining Genetic and Phenotypic Analyses for Detecting Bread Wheat Genotypes of Drought Tolerance through Multivariate Analysis Techniques](https://doi.org/10.3390/life14020183)  
@@ -39,6 +41,7 @@
  * [Genome-Wide Identification and Expression Profiling of Pathogenesis-Related Protein 1 (PR-1) Genes in Durum Wheat (Triticum durum Desf.)](https://doi.org/10.3390/plants12101998)  
  * [Wheat powdery mildew resistance: from gene identification to immunity deployment](https://doi.org/10.3389/fpls.2023.1269498)  
  * [Mapping a leaf rust resistance gene LrOft in durum wheat Ofanto and its suppressor SuLrOft in common wheat](https://doi.org/10.3389/fpls.2023.1108565)  
+  ##  yield
  * [Orthologous genes Pm12 and Pm21 from two wild relatives of wheat show evolutionary conservation but divergent powdery mildew resistance](https://doi.org/10.1016/j.xplc.2022.100472)  
  * [Genetic mapping and identification of Rht8-B1 that regulates plant height in wheat](https://doi.org/10.1186/s12870-023-04343-3)  
  * [Faba Bean-Wheat Intercropping Can Control the Occurrence of Faba Bean Fusarium Wilt by Alleviating the Inhibitory Effect of Benzoic Acid on Disease Resistance Metabolism and the Expression of Resistance Genes](https://doi.org/10.1021/acsomega.2c04569)  

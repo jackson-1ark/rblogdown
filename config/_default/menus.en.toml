@@ -14,15 +14,21 @@ weight = 4
 [[main]]
 name = "NEWS"
 url = "news/"
-weight = 5
+weight = 6
 
 [[main]]
 name = "LITERATURE"
 url = "Literature/"
-weight = 3
+weight = 5
 
 
 [[main]]
 name = "VARIETIES"
 url = "varieties/"
 weight = 2
+
+
+[[main]]
+name = "GENOME"
+url = "genome/"
+weight = 3
