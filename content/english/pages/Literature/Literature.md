@@ -4,8 +4,6 @@ html:
     # number_sections: true
     toc_depth: 6
     toc_float: true
-        collapsed: true
-        smooth_scroll: true
 --- 
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
