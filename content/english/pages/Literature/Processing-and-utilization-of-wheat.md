@@ -1,16 +1,33 @@
 ---
-title: ''
-author: ''
-date: '2024-04-22'
-slug: Processing-and-utilization-of-wheat
-categories: []
-tags: []
----
+html:
+    toc: true
+    # number_sections: true
+    toc_depth: 6
+    toc_float: true
+       
+--- 
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [GENE](#gene)
+  - [PROCESSING](#processing)
+
+<!-- /code_chunk_output -->
+
+
+<!-- /code_chunk_output -->
+
+- [GENE](#gene)
+  - [PROCESSING](#processing)
+
+## GENE
  * [Effects of Wheat Oligopeptide on the Baking and Retrogradation Properties of Bread Rolls: Evaluation of Crumb Hardness, Moisture Content, and Starch Crystallization](https://doi.org/10.3390/foods13030397)  
  * [Cell-type proteomic and metabolomic resolution of early and late grain filling stages of wheat endosperm](https://doi.org/10.1111/pbi.14203)  
  * [Genome-wide identification and analysis of the GGCT gene family in wheat](https://doi.org/10.1186/s12864-023-09934-w)  
  * [A conditional mutation in a wheat (Triticum aestivum L.) gene regulating root morphology](https://doi.org/10.1007/s00122-024-04555-7)  
  * [A novel detection method for wheat aging based on the delayed luminescence](https://doi.org/10.1038/s41598-024-51563-0)  
+### PROCESSING
  * [Wheat Bran Polyphenols Ameliorate DSS-Induced Ulcerative Colitis in Mice by Suppressing MAPK/NF-κB Inflammasome Pathways and Regulating Intestinal Microbiota](https://doi.org/10.3390/foods13020225)  
  * [Development of functional cookies form wheat-pumpkin seed based composite flour](https://doi.org/10.1016/j.heliyon.2024.e24443)  
  * [Absorption and Biotransformation of Selenomethionine and Selenomethionine-Oxide by Wheat Seedlings (Triticum aestivum L.)](https://doi.org/10.3390/plants13030380)  

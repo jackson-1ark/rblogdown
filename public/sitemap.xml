@@ -3,18 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
+    <lastmod>2024-04-22T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>/genefunction/</loc>
+    <lastmod>2024-04-22T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>/processing-and-utilization-of-wheat/</loc>
+    <lastmod>2024-04-22T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>/pages/</loc>
+    <lastmod>2024-04-22T00:00:00-04:00</lastmod>
   </url><url>
     <loc>/about/</loc>
   </url><url>
     <loc>/literature/</loc>
   </url><url>
     <loc>/news/</loc>
-  </url><url>
-    <loc>/varieties/%E6%B1%89%E9%BA%A6%E4%BA%94%E5%8F%B7/</loc>
-  </url><url>
-    <loc>/varieties/%E8%A5%BF%E5%8D%97128%E5%8E%9F%E4%BB%A3%E5%8F%B7%E4%B8%BAlb-0128/</loc>
-  </url><url>
-    <loc>/varieties/%E4%B8%9C%E6%96%B9%E7%BA%A2%E4%B8%89%E5%8F%B7/</loc>
   </url><url>
     <loc>/varieties/0103/</loc>
   </url><url>
@@ -87,8 +91,6 @@
     <loc>/varieties/lm01/</loc>
   </url><url>
     <loc>/varieties/nc2%E5%8F%B7/</loc>
-  </url><url>
-    <loc>/pages/</loc>
   </url><url>
     <loc>/privacy-policy/</loc>
   </url><url>
@@ -167,6 +169,8 @@
     <loc>/varieties/%E4%B8%9C%E6%96%B9%E7%BA%A22%E5%8F%B7/</loc>
   </url><url>
     <loc>/varieties/%E4%B8%9C%E6%96%B9%E7%BA%A23%E5%8F%B7/</loc>
+  </url><url>
+    <loc>/varieties/%E4%B8%9C%E6%96%B9%E7%BA%A2%E4%B8%89%E5%8F%B7/</loc>
   </url><url>
     <loc>/varieties/%E4%B8%9C%E6%98%8C199/</loc>
   </url><url>
@@ -5428,6 +5432,8 @@
   </url><url>
     <loc>/varieties/%E6%B1%89%E9%BA%A69%E5%8F%B7/</loc>
   </url><url>
+    <loc>/varieties/%E6%B1%89%E9%BA%A6%E4%BA%94%E5%8F%B7/</loc>
+  </url><url>
     <loc>/varieties/%E6%B1%9D%E9%BA%A60319/</loc>
   </url><url>
     <loc>/varieties/%E6%B1%9D%E9%BA%A6076/</loc>
@@ -8607,6 +8613,8 @@
     <loc>/varieties/%E8%A5%BF%E5%8D%97112/</loc>
   </url><url>
     <loc>/varieties/%E8%A5%BF%E5%8D%9711%E5%8F%B7/</loc>
+  </url><url>
+    <loc>/varieties/%E8%A5%BF%E5%8D%97128%E5%8E%9F%E4%BB%A3%E5%8F%B7%E4%B8%BAlb-0128/</loc>
   </url><url>
     <loc>/varieties/%E8%A5%BF%E5%8D%9726%E5%8F%B7/</loc>
   </url><url>

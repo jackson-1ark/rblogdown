@@ -12,13 +12,18 @@ html:
 <!-- code_chunk_output -->
 
 - [产量](#产量)
+- [栽培](#栽培)
+- [抗病](#抗病)
 - [GENE](#gene)
-
+- [GENE](#gene)
 <!-- /code_chunk_output -->
 
 ##  产量
-* [育种家有话说|野生二粒小麦抗白粉病基因挖掘与育种应用探讨](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519844&idx=1&sn=4550293d119e4ab7c69f779876658521&chksm=e8be85047a3677c9569550d7edb62569ba28f06f3355ba9738fe5fb2b3f3f600ec42825ede19&scene=27#wechat_redirect)  
+##  栽培
 * [育种家有话说 | 说小麦的矮杆早熟](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519852&idx=1&sn=a8c35bc34a919f140174f988a8639efa&chksm=e880dd02a96b943298ddc390254622f7692413281a9c64789de15dbee340b095f19b6ae94de3&scene=27#wechat_redirect)  
+*  [Plant Phenomics | 南京农业大学基于WheatNet的灌浆期和成熟期麦穗定向检测](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520001&idx=1&sn=6245225fc68979d6f256f95f02aae46c&chksm=e8b8e983f47e01902aefe011cea0667f53130dc8f99c879a593aa77deaf929f16a780773e77a&scene=27#wechat_redirect)  
+##  抗病
+* [育种家有话说|野生二粒小麦抗白粉病基因挖掘与育种应用探讨](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519844&idx=1&sn=4550293d119e4ab7c69f779876658521&chksm=e8be85047a3677c9569550d7edb62569ba28f06f3355ba9738fe5fb2b3f3f600ec42825ede19&scene=27#wechat_redirect)  
 * [NC | 小麦生育期和组织依赖白粉病抗性机制被发现](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519973&idx=1&sn=767dc60502bc7f8b6fe3b1885fc7fa49&chksm=e830f391e33808ee3b90235ac6a34d630d7293e68533cfb66ee7bc3db09da3894542c71d46d5&scene=27#wechat_redirect)  
 * [Plant Phenomics | 南京农业大学基于WheatNet的灌浆期和成熟期麦穗定向检测](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520001&idx=1&sn=6245225fc68979d6f256f95f02aae46c&chksm=e8b8e983f47e01902aefe011cea0667f53130dc8f99c879a593aa77deaf929f16a780773e77a&scene=27#wechat_redirect)  
 * [原创解读∣454份普通小麦中含有超过两万个外源渗入片段和多个种内亚基因组间易位](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520033&idx=1&sn=a9bcd391835e3880f25b206635693922&chksm=e8184d21d5b58a547da91918a23b343cd14169709b5310232d5d933f3fd294c7b56206dd347b&scene=27#wechat_redirect)  

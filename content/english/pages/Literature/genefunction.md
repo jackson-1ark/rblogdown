@@ -1,11 +1,3 @@
----
-title: ''
-author: ''
-date: '2024-04-22'
-slug: genefunction
-categories: []
-tags: []
----
  * [New genetic resources for aphid resistance were identified from a newly developed wheat mutant library](https://doi.org/10.1016/j.heliyon.2024.e26529)  
  * [Genome-wide identification and comprehensive analysis of the phytochrome-interacting factor (PIF) gene family in wheat](https://doi.org/10.1371/journal.pone.0296269)  
  * [Chemical-tag-based semi-annotated metabolomics facilitates gene identification and specialized metabolic pathway elucidation in wheat](https://doi.org/10.1093/plcell/koad286)  

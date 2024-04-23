@@ -216,6 +216,7 @@
       "z-30"
     ],
     "ids": [
+      "clustrmaps",
       "email",
       "gathering-of-personal-information",
       "gene",
@@ -228,6 +229,7 @@
       "processing",
       "protection-of-personal--information",
       "responsibility-of-contributors",
+      "search-button",
       "search-modal-input",
       "show-button",
       "theme-switcher",
@@ -16315,6 +16317,8 @@
       "审定编号黔审麦20230001",
       "审定编号黔审麦20230002",
       "审定编号黔审麦20230003",
+      "抗病",
+      "栽培",
       "栽培技术要点",
       "特征特性",
       "申请者",
