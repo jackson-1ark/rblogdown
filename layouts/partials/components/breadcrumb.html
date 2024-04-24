@@ -2,13 +2,12 @@
 {{ $class := .Class }}
 {{ $base := site.Home.Permalink }}
 
-
+<!-- 将分页模板引用放在顶部 下方是页面位置 -->
 <ul class="{{ $class }} inline-flex space-x-1 capitalize">
   <li>
     <a class="text-primary dark:text-darkmode-primary" href="{{ $base }}">
-      {{ i18n "home" | default "Home" }}
     </a>
-    <span class="inlin-block mr-1">/</span>
+    <span class="inlin-block mr-1"></span>
   </li>
   {{ range $i, $e:= $context.Ancestors.Reverse }}
     {{ if and (not .IsHome) (ne .Title "Pages") }}

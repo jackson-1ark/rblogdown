@@ -8,24 +8,18 @@
             <h1 class="mb-4 text-h3 lg:text-h1">
               {{ .title | markdownify }}
             </h1>
-            <p class="mb-8">
+             <p class="mb-8">
               {{ .content | markdownify }}
             </p>
-            {{ with .button }}
-              {{ if .enable }}
-                <a
-                  class="btn btn-primary"
-                  href="{{ .link | absURL }}"
-                  {{ if strings.HasPrefix .link `http` }}
-                    target="_blank" rel="noopener"
-                  {{ end }}>
-                  {{ .label }}
-                  <i class="fa fa-arrow-right pl-2"></i>
-                </a>
-              {{ end }}
-            {{ end }}
-          </div>
-          <div class="col-12">
+               </div>
+                 <!--地图代码块-->
+                <section class="section" style="withd: 100%; padding-top: 80px; padding-bottom: 0px;">
+                  <body >
+                    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=u7L7BaAMGYDFze_JvuwLxAW-6H0PBpDrsJmgfS_Qnu4&cl=ffffff&w=700"></script>
+                  </body>
+                </section>
+              </div>
+             <div class="col-12">
           </div>
         </div>
       </div>
@@ -37,7 +31,7 @@
   {{ range $i, $e:= .Params.features }}
     <section class="section-sm {{ if (modBool $i 100) }}bg-gradient{{ end }}">
       <div class="container">
-        <div class="row items-center justify-between">
+        <div class="row items-center justify-center">
           <div
             class="mb:md-0 {{ if not (modBool $i 100) }}
               md:order-2
@@ -140,41 +134,4 @@
     {{ end }}
   {{ end }}
   <!-- /Testimonials -->
-  <div style="text-align: center;">
- 
-
-        <input
-      id="search-modal-input"
-      type="text"
-      placeholder="Enter search term"
-      data-search-input
-      autocomplete="on"
-      aria-label="Search"
-      aria-describedby="Search"
-      placeholder="Search Post ..."
-      style="width: 800px; /* 设置宽度为800像素 */
-             padding: 10px;
-             border: 2px solid #ccc;
-             border-radius: 20px;
-             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-             outline: none;
-             transition: border-color 0.3s ease-in-out;
-             margin-right: 20px; /* 添加右边距 */"/>
-        <button
-            id="search-button"
-            aria-label="search"
-            class="border-border text-dark hover:text-primary dark:border-darkmode-border mr-5 inline-block border-r pr-5 text-xl dark:text-white dark:hover:text-darkmode-primary"
-            data-target="search-modal"
-            onclick="search()">
-            <i class="fa-solid fa-search"></i>
-        </button>
-        
-      
-      </div>
-  <!-- 地图代码块   -->
-<section class="section" style="withd: 100%; padding-top: 80px; padding-bottom: 0px;">
-   <body >
-     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=u7L7BaAMGYDFze_JvuwLxAW-6H0PBpDrsJmgfS_Qnu4&cl=ffffff&w=700"></script>
-   </body>
-</section>
 {{ end }}

@@ -3,7 +3,7 @@
 |GCA_018294505.1|[IWGSC CS RefSeq v2.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_018294505.1/)|Triticum aestivum|Chinese Spring|14566502436|Chromosome|2021-05-06|JAGHKL01|
 |GCA_910594105.1|[Tae_Kariega_v1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_910594105.1/)|Triticum aestivum||14677204660|Chromosome|2021-12-19|
 |GCA_937894285.1|[Triticum_aestivum_Renan_v2.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_937894285.1/)|Triticum aestivum||14195643615|Chromosome|2022-05-03|
-|GCA_900519105.1|[iwgsc_refseqv1.0](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_900519105.1/)|Triticum aestivum|Chinese Spring (IWGSC RefSeq v1.0)|14547261565|Chromosome|2018-08-20|
+|GCA_900519105.1|[iwgsc_refseqv1.0](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_900519105.1/)|Triticum aestivum|Chinese Spring |14547261565|Chromosome|2018-08-20|
 |GCA_907166925.1|[wheat_cv_fielder_v1_assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_907166925.1/)|Triticum aestivum|Fielder|14702880414|Chromosome|2021-07-14|CAJRHR01|
 |GCA_918797515.1|[wheat_cv_attraktion_v1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_918797515.1/)|Triticum aestivum|Attraktion|14679377615|Chromosome|2022-06-24|CAKKNG01|
 |GCA_920937835.1|[Triticum_aestivum_Renan](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_920937835.1/)|Triticum aestivum||14256742459|Chromosome|2022-05-03|CAKLAU01|

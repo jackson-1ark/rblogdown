@@ -1,4 +1,4 @@
-﻿---
+---
 html:
     toc: true
     # number_sections: true
@@ -12,29 +12,34 @@ html:
 <!-- code_chunk_output -->
 
 - [产量](#产量)
-- [栽培](#栽培)
 - [抗病](#抗病)
-- [GENE](#gene)
-- [GENE](#gene)
+- [栽培](#栽培)
+- [遗传研究](#遗传研究)
+- [汇总](#汇总)
+- [汇总](#汇总)
 <!-- /code_chunk_output -->
 
 ##  产量
-##  栽培
-* [育种家有话说 | 说小麦的矮杆早熟](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519852&idx=1&sn=a8c35bc34a919f140174f988a8639efa&chksm=e880dd02a96b943298ddc390254622f7692413281a9c64789de15dbee340b095f19b6ae94de3&scene=27#wechat_redirect)  
-*  [Plant Phenomics | 南京农业大学基于WheatNet的灌浆期和成熟期麦穗定向检测](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520001&idx=1&sn=6245225fc68979d6f256f95f02aae46c&chksm=e8b8e983f47e01902aefe011cea0667f53130dc8f99c879a593aa77deaf929f16a780773e77a&scene=27#wechat_redirect)  
 ##  抗病
 * [育种家有话说|野生二粒小麦抗白粉病基因挖掘与育种应用探讨](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519844&idx=1&sn=4550293d119e4ab7c69f779876658521&chksm=e8be85047a3677c9569550d7edb62569ba28f06f3355ba9738fe5fb2b3f3f600ec42825ede19&scene=27#wechat_redirect)  
 * [NC | 小麦生育期和组织依赖白粉病抗性机制被发现](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519973&idx=1&sn=767dc60502bc7f8b6fe3b1885fc7fa49&chksm=e830f391e33808ee3b90235ac6a34d630d7293e68533cfb66ee7bc3db09da3894542c71d46d5&scene=27#wechat_redirect)  
-* [Plant Phenomics | 南京农业大学基于WheatNet的灌浆期和成熟期麦穗定向检测](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520001&idx=1&sn=6245225fc68979d6f256f95f02aae46c&chksm=e8b8e983f47e01902aefe011cea0667f53130dc8f99c879a593aa77deaf929f16a780773e77a&scene=27#wechat_redirect)  
-* [原创解读∣454份普通小麦中含有超过两万个外源渗入片段和多个种内亚基因组间易位](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520033&idx=1&sn=a9bcd391835e3880f25b206635693922&chksm=e8184d21d5b58a547da91918a23b343cd14169709b5310232d5d933f3fd294c7b56206dd347b&scene=27#wechat_redirect)  
-* [原创解读∣秸秆处理与磷肥施用对水稻-小麦系统产量和土壤健康的长期影响](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520043&idx=1&sn=9f600055c0fd57a9eb0072e875530528&chksm=e849926205c390506586b12420972711fad8f138f7d0575fb3e1a5e27b65d92e4720cf872ee2&scene=27#wechat_redirect)  
-* [2024年第3周小麦英文文献汇总（2024-01-21)](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247520084&idx=1&sn=7d36a833be3d790d6f8fb55d9396343e&chksm=e8ec56af341ea0a1b62ef977af5c799e9b604cdf4a3d50f64f3c4fc0fa4a83f55e8081315a9b&scene=27#wechat_redirect)  
-* [JIA | 中国科学院成都生物研究所王涛研究员课题组鉴定到小麦千粒重主效QTL QTGW.cib-3B](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520096&idx=1&sn=3f65442f28523eb2d7e35adbf770a789&chksm=e85927bb69262f55b49975ec63ff4c8c3695ae86ff1df9c15a35f508d80cab9f28a34334d3d5&scene=27#wechat_redirect)  
 * [小麦–近缘物种抗病远缘新种质的创制与利用](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520096&idx=2&sn=77f4aaaeb1d58bb8b46ae205902443ff&chksm=e8f97a3b366490122ece5472546fd31161f67dc5a12f4a50c92239b30285f980325ebfc913be&scene=27#wechat_redirect)  
-* [关于如何利用基因组数据描述小麦育种材料的思考](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520103&idx=1&sn=4614014dbabcb82dff210136c9c51c1a&chksm=e8dd21a2af3f1f2c21a79a798852f6eb9117c0badda7ab30c4e26dba500d8d98197aa42769ce&scene=27#wechat_redirect)  
 * [育种家有话说 | 浅析2022-2023年度国家冬小麦品种试验抗病性鉴定结果](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247520162&idx=1&sn=a863350cee7625600701f657cd6aa72d&chksm=e88ae7bd2c5803947acf413433675ec8f4ed526c542d554dc639d0d71cf8726e85972c66095f&scene=27#wechat_redirect)  
-* [全环境科学|基于多位点基因型的作物模型揭示未来气候条件下冬小麦开花期将更加稳定](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247520173&idx=1&sn=4eb0c0eba7869d2edeebdb1dc96be0d5&chksm=e8c3ee9d7a559eb3385be80d1771161743e1e7af6f87af67632dc70d2ea2790f097d922db363&scene=27#wechat_redirect)  
+##  栽培
+* [育种家有话说 | 说小麦的矮杆早熟](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519852&idx=1&sn=a8c35bc34a919f140174f988a8639efa&chksm=e880dd02a96b943298ddc390254622f7692413281a9c64789de15dbee340b095f19b6ae94de3&scene=27#wechat_redirect)  
+*  [Plant Phenomics | 南京农业大学基于WheatNet的灌浆期和成熟期麦穗定向检测](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520001&idx=1&sn=6245225fc68979d6f256f95f02aae46c&chksm=e8b8e983f47e01902aefe011cea0667f53130dc8f99c879a593aa77deaf929f16a780773e77a&scene=27#wechat_redirect)   
+*  [原创解读∣秸秆处理与磷肥施用对水稻-小麦系统产量和土壤健康的长期影响](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520043&idx=1&sn=9f600055c0fd57a9eb0072e875530528&chksm=e849926205c390506586b12420972711fad8f138f7d0575fb3e1a5e27b65d92e4720cf872ee2&scene=27#wechat_redirect) 
+##  遗传研究
+* [原创解读∣454份普通小麦中含有超过两万个外源渗入片段和多个种内亚基因组间易位](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520033&idx=1&sn=a9bcd391835e3880f25b206635693922&chksm=e8184d21d5b58a547da91918a23b343cd14169709b5310232d5d933f3fd294c7b56206dd347b&scene=27#wechat_redirect)  
+* [关于如何利用基因组数据描述小麦育种材料的思考](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520103&idx=1&sn=4614014dbabcb82dff210136c9c51c1a&chksm=e8dd21a2af3f1f2c21a79a798852f6eb9117c0badda7ab30c4e26dba500d8d98197aa42769ce&scene=27#wechat_redirect)  
 * [SCLS | 韩方普组在小麦多倍体研究中取得新进展](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247520225&idx=1&sn=46c26084bdf0746f8ad52f0d76d05a60&chksm=e88bc037740c9aa549a374c2e12201ac1534d79ae38185a3e83f605fcc615944df4c0b53888c&scene=27#wechat_redirect)  
+##  汇总
+* [2024年第3周小麦英文文献汇总（2024-01-21)](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247520084&idx=1&sn=7d36a833be3d790d6f8fb55d9396343e&chksm=e8ec56af341ea0a1b62ef977af5c799e9b604cdf4a3d50f64f3c4fc0fa4a83f55e8081315a9b&scene=27#wechat_redirect)  
+
+
+
+* [全环境科学|基于多位点基因型的作物模型揭示未来气候条件下冬小麦开花期将更加稳定](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247520173&idx=1&sn=4eb0c0eba7869d2edeebdb1dc96be0d5&chksm=e8c3ee9d7a559eb3385be80d1771161743e1e7af6f87af67632dc70d2ea2790f097d922db363&scene=27#wechat_redirect)  
+
 * [一作解读 | PCE: 中国农业大学张英华课题组揭示长光期和红光结合促进小麦早花多实的调控机制](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247520234&idx=1&sn=427a4c50d083a7ceba1db89f96c89538&chksm=e838ca6add5aecb555090d60d5f0b713b66771c24c31c203c841a6e979cae071579976c60b47&scene=27#wechat_redirect)  
 * [Nature Climate Change (IF=30.7) | 最新研究揭示气候变化引发的植物真菌病害危及小麦生产！](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247520298&idx=1&sn=e5cdc7cc3ca5a1ea8263c782cb41c14b&chksm=e8dde639e0f61583c3500c2ecccf829555d2a0029c583e5d0d6b6439c46fe34b80bbe072ad3f&scene=27#wechat_redirect)  
 * [The Crop Journal | 中国农业科学院作物科学研究所综述农杆菌介导的禾谷类作物遗传转化最新进展](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247520322&idx=1&sn=b64b197ae82d4cbe7e7a6333919f5ad8&chksm=e83dcbd8e608332d636db2e4156472b576a5e727e6c8c54e19415ce11110a4fe58c9c134b610&scene=27#wechat_redirect)  
@@ -759,7 +764,6 @@ html:
 * [原创解读 | PJ-小麦颖枯病效应因子ToxA与TaNHL10互作诱导Tsn1介导的细胞死亡](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247504505&idx=1&sn=a12ad12335adf63c4515aa55725d4bee&chksm=e9e47590de93fc86829d39c526039e6466547653971325be06ec351519e5f99d3d6a5189eba2&scene=27#wechat_redirect)  
 * [The Crop Journal | 中国农科院作科所张学勇团队发现调控小麦抽穗期新基因](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247504489&idx=2&sn=e80bd73e50381486b6afd0c372ba9c94&chksm=e9e47580de93fc96db267250efd9919588fd22ca8a5f5d778ad3ac40f85f5e82d8ec2b38b40e&scene=27#wechat_redirect)  
 * [Microbiome | 唐才贤团队揭示二氧化碳浓度升高改变小麦根际微生物组成和代谢以矿化有机磷！](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247504489&idx=1&sn=b8b148c9ff8572372fa3792d05d86902&chksm=e9e47580de93fc9629493fe45cd4ee091700d68804accc5438ab9d5aa693f52d0daea95eacc7&scene=27#wechat_redirect)  
-##  GENE
 * [原创解读 | Nature: 拟南芥的突变偏好与自然选择的因果关系](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247504483&idx=2&sn=6208fa3c2ccc5932a247689a20fce0a2&chksm=e9e4758ade93fc9cdc87a2a567b9b0ffffcbe8e341ed611eb75d36acdac5b9c90b26f87caa60&scene=27#wechat_redirect)  
 * [育种家有话说 | 小麦分子标记辅助选择的一些理解](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247504483&idx=3&sn=9e89ac30bcccd518dd9ac7e56edf9842&chksm=e9e4758ade93fc9c0f2d72135aefd66b71b461dbf074bd74180f8d995a6182190a4c45ea4eb5&scene=27#wechat_redirect)  
 * [一作解读 | 贵州师范大学和青岛农业大学合作揭示粗山羊草SRG1调控小麦响应镉胁迫的分子机制](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247504483&idx=1&sn=6a2bf72046ac01a71b49a46cc6eb5f65&chksm=e9e4758ade93fc9cc830d3b2247d61c9a9fed2cbdd457dd83bbb7f374ca977bce9208b9331e3&scene=27#wechat_redirect)  
@@ -981,7 +985,6 @@ html:
 * [原创解读|Nature Genetics 经典论文：DEP1基因座的自然变异可以提高水稻产量](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247500393&idx=1&sn=6b321a17141e0fb5a643d03ecd2c6ecc&chksm=e9e46580de93ec96b986136c5eb4f29f881cb8a9041d68c9ac834de318928fc72356c4cc49f0&scene=27#wechat_redirect)  
 * [【权威解读】教你认识一个真实的小麦茎基腐病](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247500366&idx=1&sn=9be258198aa364c09cfc583e63e0c52c&chksm=e9e465a7de93ecb1f3baeec74c326ad54787c60cc5fd30995c7f140ef1955192dcaa82a0a246&scene=27#wechat_redirect)  
 * [Frontiers｜小麦抗主要根茎病害抗病遗传学研究进展](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247500316&idx=1&sn=47ab0978e96b4a4ac486ae2cce808cb8&chksm=e9e465f5de93ece3379d384ffa400d44e322813529d2c4c06adfaf7ab8d64564b62d024c5191&scene=27#wechat_redirect)  
-* ##  PROCESSING
 * [大数据在植物育种中的作用：IPK科学家在小麦产量预测准确性上实现了翻倍](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247500304&idx=1&sn=f8f862daac2e1ff18b340a7a585cc8da&chksm=e9e465f9de93ecef8ca252a462728830dd9a085a7a813d458d1e8928c27ee441be02b3a41bf8&scene=27#wechat_redirect)  
 * [原创解读 | Science Advances 大数据使杂交小麦产量预测的准确性翻倍](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247500235&idx=1&sn=9988cfabe77e4c986d92c30b0aac6d43&chksm=e9e46622de93ef341d387149dd7e6dae0866c182cdafbc049d6c936995ee5d7fe29a0aa6626a&scene=27#wechat_redirect)  
 * [Nature Communications | 瑞士纳沙泰尔大学通过机器学习预测小麦病原菌结构变异的决定因素！](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247500210&idx=1&sn=7ce74de5451e58d09fa67390d87820e9&chksm=e9e4665bde93ef4df7307583b4d5c6d348099b9181cd85fd21cb485640aa6c1c36637b05e510&scene=27#wechat_redirect)  
