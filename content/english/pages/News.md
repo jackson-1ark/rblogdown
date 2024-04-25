@@ -4,7 +4,7 @@ html:
     # number_sections: true
     toc_depth: 6
     toc_float: true
-       
+                     
 --- 
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
@@ -15,6 +15,7 @@ html:
 - [抗病抗旱相关](#抗病抗旱相关)
 - [发育](#发育)
 - [遗传研究](#遗传研究)
+- [中英文文献汇总](#中英文文献汇总)
 - [中英文文献汇总](#中英文文献汇总)
 <!-- /code_chunk_output -->
 
