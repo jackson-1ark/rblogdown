@@ -13,7 +13,7 @@ weight = 5
 
 [[main]]
 name = "NEWS"
-url = "v$g/"
+url = "news/"
 weight = 6
 
 [[main]]
