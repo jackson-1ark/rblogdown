@@ -16,10 +16,6 @@ name = "NEWS"
 url = "news/"
 weight = 6
 
-[[main]]
-name = "LITERATURE"
-url = "literature/"
-weight = 4
 
 
 [[main]]
@@ -32,3 +28,9 @@ weight = 2
 name = "GENOME"
 url = "genome/"
 weight = 3
+
+
+[[main]]
+name = "LITERATURE"
+url = "exam/"
+weight = 4

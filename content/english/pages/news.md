@@ -16,9 +16,12 @@ html:
 - [发育](#发育)
 - [遗传研究](#遗传研究)
 - [中英文文献汇总](#中英文文献汇总)
+- [中英文文献汇总](#中英文文献汇总)
 <!-- /code_chunk_output -->
 
 ##  产量
+* [Nature Food | 磷平衡以获得作物最佳产量](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247527609&idx=1&sn=cd3b4557f25d4256d3c9f9eef914466a&chksm=e88857c801fe9d8169f12f1a7c721eb71fbb6b1ca4a3508db41511d2e87b7fb3b31a6dc5ea0d&scene=27#wechat_redirect)
+* [抗病高产小麦新品种金秋168（一麦众承 葛昌斌）](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247522452&idx=2&sn=6bce5772c5d43ae841a9765b3d7ce9a0&chksm=e878edb9e56bbbad44a03808b5b7a7c5112767e2eb4e79142cd04fdc59e494fbe4929a89f1fe&scene=27#wechat_redirect)
 * [原创解读∣秸秆处理与磷肥施用对水稻-小麦系统产量和土壤健康的长期影响](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247520043&idx=1&sn=9f600055c0fd57a9eb0072e875530528&chksm=e849926205c390506586b12420972711fad8f138f7d0575fb3e1a5e27b65d92e4720cf872ee2&scene=27#wechat_redirect)  
 * [JIPB | 山东大学王勐骋课题组发现小麦耐盐基因TaCHP稳定提高盐碱地小麦产量](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519788&idx=1&sn=70635874ecd20bb77c05bf132eea9045&chksm=e8bed7d3df1a3e03e896e61e62714827d118a7a988aa378833cd25de81ea6896f5921b6a5594&scene=27#wechat_redirect)  
 * [小麦SNP整合连锁图谱构建及产量相关性状的QTL定位](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519259&idx=1&sn=34654224791ec67edfb9a06941d4a2e3&chksm=e8181793e47f7514c7095e68746fc5e7878a756055efe9502eaad01ad25b7b50ebd52c868d2b&scene=27#wechat_redirect)  
@@ -75,6 +78,11 @@ html:
 * [提倡杂种后代尽早密植、不提倡过分追求F2代个体单株产量](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247487201&idx=1&sn=7c6ea9aa0c22b8ddb2f94a6d63144a0d&chksm=e9e7a908de90201ec5d69308236dd8a6b9a94244919648db63b0b47eafbe320ae4846a2744d3&scene=27#wechat_redirect)  
 
 ##  抗病抗旱相关
+* [PBJ | 华中农业大学小麦团队在抗赤霉病毒素积累研究方面取得新进展](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247527759&idx=1&sn=055d9ef7376fb182b744f08f597b8e18&chksm=e8f0dcb7fc09001ff0061c1d978981f31f53cdc143ed07f7741b040ca63a4f0d1d8d4cc10bff&scene=27#wechat_redirect)
+* [TAG | 陈时盛团队确定小麦抗锈病基因Lr53和Yr35来源并开展定位和小片段易位系创制](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247527741&idx=1&sn=87a1f3eb30fd23e8e52dc3ec6c6e151d&chksm=e8ce8a4ad8574acd7808da0d07cff6f6b47767c317009f469134339a75b091ff9a0631e63f3c&scene=27#wechat_redirect)
+* [TAG | Lr75 的表征：小麦部分广谱叶锈病抗性基因](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247527705&idx=2&sn=697964e67b31124e77ac7564b3eea1d9&chksm=e8e95e1bbc78e7ac88ab632ab96fd8da47896cc2561d8586f7722e459ad0f9d00334ce633c95&scene=27#wechat_redirect)
+* [中国农业科学专题文章 | 四川农业大学王际睿课题组关于小麦穗发芽抗性机制及抗性育种的研究](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247527633&idx=1&sn=b41178e154517b457f8cc492c8f78b57&chksm=e82c419d9a52b71d2cc031e5dd14da02f42212e7cb58f49b6203aa224aa4598deaec15122188&scene=27#wechat_redirect)
+* [南京农业大学 | 江苏省农业科学院等联合揭示Fhb1抗小麦赤霉病的新机制](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247522554&idx=1&sn=4bb9096565d5738818b6e65b309dc206&chksm=e8beb975fa57cf1ee28e5002d500b15b97f052577f48f40c915639dd79b757fa892a05407d57&scene=27#wechat_redirect)
 * [一作解读｜New Phytologist 联合GWAS和eGWAS解析四倍体小麦抗旱性的遗传基础及调控模块](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247520550&idx=1&sn=e619c5ffda5942022fbeb944ed7908b8&chksm=e832d47510e0e7a11e08bd47e09ff0b584d24072f45a2851a1b0dfeca4c56a189d63af3b996a&scene=27#wechat_redirect)  
 * [一作解读｜New Phytologist 联合GWAS和eGWAS解析四倍体小麦抗旱性的遗传基础及调控模块](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247520550&idx=1&sn=e619c5ffda5942022fbeb944ed7908b8&chksm=e832d47510e0e7a11e08bd47e09ff0b584d24072f45a2851a1b0dfeca4c56a189d63af3b996a&scene=27#wechat_redirect)  
 * [Plant Cell | 西北农林科技大学康振生院士/毛虎德课题组揭示了TaGW2调控小麦抗旱性的新机制](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519578&idx=1&sn=25352f9fa6407deee514f2d09ddfcc92&chksm=e8cff8eeaea06293c70f3a45b9279c757ca84c6d61ebecb794c50da41305469f10c035713379&scene=27#wechat_redirect)  
@@ -145,6 +153,8 @@ html:
 * [赤霉病抗病“新“抗源](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247486273&idx=1&sn=63140fdedbcf357574fd39cdd17b00bf&chksm=e9e7aca8de9025befa8dac2bb60136f807a2bd19fb302a214ef04746164bfbd0519864bad21a&scene=27#wechat_redirect)  
 
 ##  发育
+* [New Phytologist | 中国农业大学小麦研究中心揭示种子根与氮素吸收调控新机制](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247522264&idx=1&sn=5b815da690c72a77cba78790ad796df3&chksm=e8597f121fe4ea8637a980251741dc8239e9115e2407b89df4d3d26aad7a10a7cd708ccdaf36&scene=27#wechat_redirect)
+* [JGG｜南京农大王秀娥团队发现剂量效应基因调控小麦籽粒发育](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247527741&idx=2&sn=d0712917662059f2c4e3918c4e6ba0b1&chksm=e8332b306ff3ddc3c6dc17203e93040f12d19504e67ef4cf2ca7f18c63465695c289e49e7994&scene=27#wechat_redirect)
 * [育种家有话说 | 说小麦的矮杆早熟](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519852&idx=1&sn=a8c35bc34a919f140174f988a8639efa&chksm=e880dd02a96b943298ddc390254622f7692413281a9c64789de15dbee340b095f19b6ae94de3&scene=27#wechat_redirect)  
 *  [Plant Phenomics | 南京农业大学基于WheatNet的灌浆期和成熟期麦穗定向检测](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520001&idx=1&sn=6245225fc68979d6f256f95f02aae46c&chksm=e8b8e983f47e01902aefe011cea0667f53130dc8f99c879a593aa77deaf929f16a780773e77a&scene=27#wechat_redirect)   
 *  [原创解读∣秸秆处理与磷肥施用对水稻-小麦系统产量和土壤健康的长期影响](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520043&idx=1&sn=9f600055c0fd57a9eb0072e875530528&chksm=e849926205c390506586b12420972711fad8f138f7d0575fb3e1a5e27b65d92e4720cf872ee2&scene=27#wechat_redirect) 
@@ -207,6 +217,11 @@ html:
 * [小麦的生长和发育-1](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247486179&idx=1&sn=78748622559bffdba0a0f4d102ddc08a&chksm=e9e7ad0ade90241c20ba189f677806bc69692b54008e5021931155e596962791bf34ab34ba34&scene=27#wechat_redirect)  
 
 ##  遗传研究
+- [The Crop Journal | 中国农科院作科所联合青岛农大揭示黄酮醇合成酶基因调控小麦类病斑性状](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247527705&idx=1&sn=00b8e06b5e1cc0ae9f25da6ae85695e8&chksm=e8a2158711c49787626ee7668e449f6ec9afbb55d65d9f0630dabd1544074a96e95f78f634e4&scene=27#wechat_redirect)
+- [TAG | Lr75 的表征：小麦部分广谱叶锈病抗性基因](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247527705&idx=2&sn=697964e67b31124e77ac7564b3eea1d9&chksm=e8e95e1bbc78e7ac88ab632ab96fd8da47896cc2561d8586f7722e459ad0f9d00334ce633c95&scene=27#wechat_redirect)
+- [中国农业科学专题文章 | 四川农业大学王际睿课题组关于小麦穗发芽抗性机制及抗性育种的研究](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247527633&idx=1&sn=b41178e154517b457f8cc492c8f78b57&chksm=e82c419d9a52b71d2cc031e5dd14da02f42212e7cb58f49b6203aa224aa4598deaec15122188&scene=27#wechat_redirect)
+- [JIPB | 中国科学院遗传发育所童依平课题组解析TaNAM-A1调控叶片衰老及其等位变异的功能差异分子机制](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247527629&idx=1&sn=c160e67ff73244b9f2c56f122a11d6ed&chksm=e85c17f11b91ccb5097e73e0776eacfb1b48be666747662d74870d4d4c85ab04f2c6cf058298&scene=27#wechat_redirect)
+- [一作解读丨Plant Journal 中国农业科学院孙加强团队发现发育性状驯化改良基因Q负调控小麦耐盐性](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247527598&idx=1&sn=814feab5a2b39414169b535fe1cf988c&chksm=e87c8aac916faa79f61668af6840cdf36da7e8e8f2f1ec764aab20400f2a545c9e6f122e049b&scene=27#wechat_redirect)
 * [育种家有话说|野生二粒小麦抗白粉病基因挖掘与育种应用探讨](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519844&idx=1&sn=4550293d119e4ab7c69f779876658521&chksm=e8be85047a3677c9569550d7edb62569ba28f06f3355ba9738fe5fb2b3f3f600ec42825ede19&scene=27#wechat_redirect)  
 * [原创解读∣454份普通小麦中含有超过两万个外源渗入片段和多个种内亚基因组间易位](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520033&idx=1&sn=a9bcd391835e3880f25b206635693922&chksm=e8184d21d5b58a547da91918a23b343cd14169709b5310232d5d933f3fd294c7b56206dd347b&scene=27#wechat_redirect)  
 * [关于如何利用基因组数据描述小麦育种材料的思考](http://mp.weixin.qq.com/s__biz=MzI1MjIyODIzMA==&mid=2247520103&idx=1&sn=4614014dbabcb82dff210136c9c51c1a&chksm=e8dd21a2af3f1f2c21a79a798852f6eb9117c0badda7ab30c4e26dba500d8d98197aa42769ce&scene=27#wechat_redirect)  
@@ -725,6 +740,7 @@ html:
 * [转基因与快速基因克隆技术在培育小麦持久抗病品种中的应用](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247486598&idx=1&sn=1d32ae0393f0d02125c78e51ac6701be&chksm=e9e7ab6fde902279b3c9bbff7af347d313f6ac231d792f756620a0ffa2e511985c9dd1d298f0&scene=27#wechat_redirect)  
 * [小麦地方品种对现代小麦育种的价值—抗白粉病新基因Pm61的发现](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247486303&idx=1&sn=91f8488c081ddb78d974913fb2363d29&chksm=e9e7acb6de9025a014f47ffefd4e426df186170585e561b7ec66a3dd94d18d12ece9d1345bc6&scene=27#wechat_redirect)  
 ##  中英文文献汇总
+* [2024年第16周小麦英文文献汇总（2024-04-21)](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247522315&idx=1&sn=8b1264a6ec3d25d4a630ec8a1c49c421&chksm=e8499aa0aa81f78b7e2a7e49a75c5a1209c51cf36a58dc9e81efa2173d1e7c2e32413185511c&scene=27#wechat_redirect)
 * [2024年第3周小麦英文文献汇总（2024-01-21)](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247520084&idx=1&sn=7d36a833be3d790d6f8fb55d9396343e&chksm=e8ec56af341ea0a1b62ef977af5c799e9b604cdf4a3d50f64f3c4fc0fa4a83f55e8081315a9b&scene=27#wechat_redirect)  
 * [2023年第46周小麦文献汇总（2023-11-19)](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247519121&idx=1&sn=9c2fdd923dab90392fc1d357855f2494&chksm=e89db27e214150af670ef13382e955526eefd28536ccc9a0f4100488ce4532a0ea45c80964bd&scene=27#wechat_redirect)  
 * [2023年第45周小麦文献汇总（2023-11-12)](http://mp.weixin.qq.com/s?__biz=MzI1MjIyODIzMA==&mid=2247518990&idx=1&sn=d996c44c2449f86b10f2e460869964fc&chksm=e85e6ddd76fd295a07da8055e71a6c1c45102c948568cc6f6924ce9cabf59ba7d5f2ee711ebc&scene=27#wechat_redirect)  
