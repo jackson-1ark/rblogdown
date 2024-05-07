@@ -9,7 +9,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "wheatinfo"
+logo_text = "WheatInfo"
 # navbar fixed to top
 navbar_fixed = false
 # theme-mode

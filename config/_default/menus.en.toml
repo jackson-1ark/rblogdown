@@ -8,13 +8,13 @@ weight = 1
 
 [[main]]
 name = "RESOURSE"
-url = "about/"
+url = "resource/"
 weight = 5
 
 [[main]]
 name = "NEWS"
-url = "news/"
 weight = 6
+hasChildren = true
 
 
 
@@ -34,3 +34,33 @@ weight = 3
 name = "LITERATURE"
 url = "exam/"
 weight = 4
+
+
+[[main]]
+parent = "NEWS"
+name = "Yield"
+url = "Yield/"
+
+
+[[main]]
+parent = "NEWS"
+name = "Disease and drought resistance"
+url = "Disease and drought resistance/"
+
+
+[[main]]
+parent = "NEWS"
+name = "Growth and development"
+url = "Growth and development/"
+
+
+[[main]]
+parent = "NEWS"
+name = "Genetic research"
+url = "Genetic research/"
+
+
+[[main]]
+parent = "NEWS"
+name = "Comprehensive literature"
+url = "Comprehensive literature/"

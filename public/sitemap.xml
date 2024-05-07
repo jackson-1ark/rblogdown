@@ -3,22 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2024-04-22T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>/genefunction/</loc>
-    <lastmod>2024-04-22T00:00:00-04:00</lastmod>
+    <loc>/disease-and-drought-resistance/</loc>
   </url><url>
-    <loc>/processing-and-utilization-of-wheat/</loc>
-    <lastmod>2024-04-22T00:00:00-04:00</lastmod>
+    <loc>/genome/</loc>
   </url><url>
-    <loc>/pages/</loc>
-    <lastmod>2024-04-22T00:00:00-04:00</lastmod>
-  </url><url>
-    <loc>/about/</loc>
-  </url><url>
-    <loc>/literature/</loc>
+    <loc>/growth-and-development/</loc>
   </url><url>
     <loc>/news/</loc>
+  </url><url>
+    <loc>/resource/</loc>
+  </url><url>
+    <loc>/yield/</loc>
+  </url><url>
+    <loc>/varieties/%E4%B8%9C%E6%96%B9%E7%BA%A2%E4%B8%89%E5%8F%B7/</loc>
+  </url><url>
+    <loc>/varieties/%E4%B8%B0%E6%8A%9710%E5%8F%B7/</loc>
+  </url><url>
+    <loc>/varieties/%E4%B8%B0%E6%8A%9713%E5%8F%B7/</loc>
+  </url><url>
+    <loc>/varieties/%E4%B8%B0%E6%8A%9715%E5%8F%B7/</loc>
+  </url><url>
+    <loc>/varieties/%E4%B8%B0%E6%8A%977%E5%8F%B7/</loc>
+  </url><url>
+    <loc>/varieties/%E4%B8%B0%E6%8A%978%E5%8F%B7/</loc>
+  </url><url>
+    <loc>/varieties/%E4%BA%AC%E5%8F%8C16/</loc>
+  </url><url>
+    <loc>/varieties/%E5%86%80%E9%BA%A622%E5%8F%B7/</loc>
+  </url><url>
+    <loc>/varieties/%E5%86%9C%E5%A4%A7311/</loc>
+  </url><url>
+    <loc>/varieties/%E5%8C%97%E4%BA%AC13/</loc>
+  </url><url>
+    <loc>/varieties/%E6%B4%A5%E6%98%A55%E5%8F%B7/</loc>
   </url><url>
     <loc>/varieties/0103/</loc>
   </url><url>
@@ -70,9 +88,19 @@
   </url><url>
     <loc>/varieties/cm618/</loc>
   </url><url>
+    <loc>/comprehensive-literature/</loc>
+  </url><url>
+    <loc>/exam/comprehensive-literature/</loc>
+  </url><url>
     <loc>/contact/</loc>
   </url><url>
+    <loc>/exam/cultivation-and-planting-of-wheat/</loc>
+  </url><url>
     <loc>/varieties/dk171/</loc>
+  </url><url>
+    <loc>/exam/</loc>
+  </url><url>
+    <loc>/genetic-research/</loc>
   </url><url>
     <loc>/varieties/gs%E9%83%91%E9%BA%A6004%E9%83%91%E9%BA%A6004/</loc>
   </url><url>
@@ -92,7 +120,13 @@
   </url><url>
     <loc>/varieties/nc2%E5%8F%B7/</loc>
   </url><url>
-    <loc>/privacy-policy/</loc>
+    <loc>/exam/nutrition-and-health-of-wheat/</loc>
+  </url><url>
+    <loc>/pages/</loc>
+  </url><url>
+    <loc>/exam/prevention-and-control-of-wheat-diseases-and-pests/</loc>
+  </url><url>
+    <loc>/exam/processing-and-utilization-of-wheat/</loc>
   </url><url>
     <loc>/varieties/s001/</loc>
   </url><url>
@@ -107,6 +141,8 @@
     <loc>/varieties/tzl37/</loc>
   </url><url>
     <loc>/varieties/</loc>
+  </url><url>
+    <loc>/exam/varieties-and-genetic-breeding-of-wheat/</loc>
   </url><url>
     <loc>/varieties/wf405/</loc>
   </url><url>
@@ -169,8 +205,6 @@
     <loc>/varieties/%E4%B8%9C%E6%96%B9%E7%BA%A22%E5%8F%B7/</loc>
   </url><url>
     <loc>/varieties/%E4%B8%9C%E6%96%B9%E7%BA%A23%E5%8F%B7/</loc>
-  </url><url>
-    <loc>/varieties/%E4%B8%9C%E6%96%B9%E7%BA%A2%E4%B8%89%E5%8F%B7/</loc>
   </url><url>
     <loc>/varieties/%E4%B8%9C%E6%98%8C199/</loc>
   </url><url>
@@ -2041,8 +2075,6 @@
     <loc>/varieties/%E5%8A%B2%E9%BA%A61%E5%8F%B7/</loc>
   </url><url>
     <loc>/varieties/%E5%8C%97%E4%BA%AC0045/</loc>
-  </url><url>
-    <loc>/varieties/%E5%8C%97%E4%BA%AC13/</loc>
   </url><url>
     <loc>/varieties/%E5%8C%97%E4%BA%AC837/</loc>
   </url><url>

@@ -11,7 +11,7 @@
 
 <meta
   name="viewport"
-  content="width=device-width, initial-scale=1, maximum-scale=10" />
+  content="width=device-width, initial-scale=0, maximum-scale=0" />
 
 
 <meta name="theme-name" content="hugoplate" />
@@ -321,8 +321,8 @@
 
 
 <link
-  href="/css/style.min.aacaa43eba0d568dc8eed5d9bfe9d41ecfe12161cbf479e3c5b3f569acfd12e0.css"
-  integrity="sha256-qsqkProNVo3I7tXZv+nUHs/hIWHL9HnjxbP1aaz9EuA="
+  href="/css/style.min.8bc0e90c5351c77e05aec60b4c31df95c77d6ba0fc0c84ff34325d2374db1054.css"
+  integrity="sha256-i8DpDFNRx34FrsYLTDHflcd9a6D8DIT/NDJdI3TbEFQ="
   rel="stylesheet" />
 
 
@@ -381,7 +381,7 @@
 
 
   
-     
+  WheatInfo
 
 
       </a>
@@ -407,7 +407,7 @@
     
     <ul
       id="nav-menu"
-      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8">
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-">
       
       
         
@@ -446,7 +446,21 @@
             <a
               class="nav-link "
               
-              href="/Literature/"
+              href="/genome/"
+              >GENOME</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/exam/"
               >LITERATURE</a
             >
           </li>
@@ -460,8 +474,8 @@
             <a
               class="nav-link "
               
-              href="/about/"
-              >RESUORSE</a
+              href="/resource/"
+              >RESOURSE</a
             >
           </li>
         
@@ -470,13 +484,94 @@
         
         
         
-          <li class="nav-item">
-            <a
-              class="nav-link "
+          <li class="nav-item nav-dropdown group relative">
+            <span
+              class="nav-link 
+                
+                
+                
               
-              href="/news/"
-              >NEWS</a
-            >
+                
+                
+                
+              
+                
+                
+                
+              
+                
+                
+                
+              
+                
+                
+                
+               inline-flex items-center">
+              NEWS
+              <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
+                <path
+                  d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+              </svg>
+            </span>
+            <ul
+              class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-50">
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/Comprehensive%20literature/">
+                    Comprehensive literature
+                  </a>
+                </li>
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/Disease%20and%20drought%20resistance/">
+                    Disease and drought resistance
+                  </a>
+                </li>
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/Genetic%20research/">
+                    Genetic research
+                  </a>
+                </li>
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/Growth%20and%20development/">
+                    Growth and development
+                  </a>
+                </li>
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/Yield/">
+                    Yield
+                  </a>
+                </li>
+              
+            </ul>
           </li>
         
       
@@ -707,19 +802,23 @@
 <style>
   .card-container {
       display: grid;
-      grid-template-columns: repeat(6, 1fr);  
-      gap: 40px;  
+      grid-template-columns: repeat(5, 1fr);  
+      gap: 30px;  
       justify-content: center;  
-      padding: 100px 500px;  
+      padding:300px;  
+      padding-bottom: 30px;
+      padding-top: 35px;
+
   }
 
   .card {
-      border: 1px solid #ccc;
+      border: 1px solid #757474;
       border-radius: 10px;
-      padding: 30px;
+      padding: 15px;
       transition: transform 0.2s;
-      max-width: 300px;  
-      margin: 1 auto;  
+      margin: auto;  
+      width: 190px;
+      height: 100px;
   }
 
   .card a {
@@ -732,12 +831,14 @@
   }
 
   .card-title {
-      font-size: 1.2em;
+      font-size: 20px;
+      color: #000;
+      font-weight: bold;
       margin-bottom: 5px;
   }
 
   .card-description {
-      font-size: 0.9em;
+      font-size: 14px;
       color: #666;
   }
 </style>
@@ -1583,6 +1684,69 @@
 
 <div class="card-container">
   
+    <a href="/varieties/%E5%B1%B1%E5%86%9C1135/" class="card">
+      <div class="card-content">
+        <h3 class="card-title">山农1135</h3>
+        <p class="card-description">鲁农审字[2001]033号</p>
+      </div>
+    </a>
+  
+    <a href="/varieties/%E5%B1%B1%E5%86%9C116/" class="card">
+      <div class="card-content">
+        <h3 class="card-title">山农116</h3>
+        <p class="card-description">国审麦20210027</p>
+      </div>
+    </a>
+  
+    <a href="/varieties/%E5%B1%B1%E5%86%9C11%E5%8F%B7ph9804133/" class="card">
+      <div class="card-content">
+        <h3 class="card-title">山农11号(PH9804133)</h3>
+        <p class="card-description">鲁农审字[2003]033号</p>
+      </div>
+    </a>
+  
+    <a href="/varieties/%E5%B1%B1%E5%86%9C12%E5%8F%B7/" class="card">
+      <div class="card-content">
+        <h3 class="card-title">山农12号</h3>
+        <p class="card-description">鲁审麦[2005]045号</p>
+      </div>
+    </a>
+  
+    <a href="/varieties/%E5%B1%B1%E5%86%9C14%E5%8F%B7%E5%8E%9F%E4%BB%A3%E5%8F%B7b245/" class="card">
+      <div class="card-content">
+        <h3 class="card-title">山农14号(原代号B245)</h3>
+        <p class="card-description">鲁农审2006047号</p>
+      </div>
+    </a>
+  
+    <a href="/varieties/%E5%B1%B1%E5%86%9C15%E5%8F%B7%E5%8E%9F%E4%BB%A3%E5%8F%B7%E5%B1%B1%E5%86%9C8049/" class="card">
+      <div class="card-content">
+        <h3 class="card-title">山农15号(原代号山农8049)</h3>
+        <p class="card-description">鲁农审2006057号</p>
+      </div>
+    </a>
+  
+    <a href="/varieties/%E5%B1%B1%E5%86%9C16%E5%8E%9F%E4%BB%A3%E5%8F%B7%E6%97%B1%E4%B8%B03%E5%8F%B7/" class="card">
+      <div class="card-content">
+        <h3 class="card-title">山农16(原代号旱丰3号)</h3>
+        <p class="card-description">鲁农审2007047号</p>
+      </div>
+    </a>
+  
+    <a href="/varieties/%E5%B1%B1%E5%86%9C1695/" class="card">
+      <div class="card-content">
+        <h3 class="card-title">山农1695</h3>
+        <p class="card-description">鲁审麦20200011</p>
+      </div>
+    </a>
+  
+    <a href="/varieties/%E5%B1%B1%E5%86%9C17/" class="card">
+      <div class="card-content">
+        <h3 class="card-title">山农17</h3>
+        <p class="card-description">国审麦2009015</p>
+      </div>
+    </a>
+  
     <a href="/varieties/%E5%B1%B1%E5%86%9C18/" class="card">
       <div class="card-content">
         <h3 class="card-title">山农18</h3>
@@ -2220,69 +2384,6 @@
       </div>
     </a>
   
-    <a href="/varieties/%E5%B7%9D%E5%86%9C27/" class="card">
-      <div class="card-content">
-        <h3 class="card-title">川农27</h3>
-        <p class="card-description">川审麦2009009</p>
-      </div>
-    </a>
-  
-    <a href="/varieties/%E5%B7%9D%E5%86%9C29/" class="card">
-      <div class="card-content">
-        <h3 class="card-title">川农29</h3>
-        <p class="card-description">川审麦2015009</p>
-      </div>
-    </a>
-  
-    <a href="/varieties/%E5%B7%9D%E5%86%9C30/" class="card">
-      <div class="card-content">
-        <h3 class="card-title">川农30</h3>
-        <p class="card-description">川审麦2016010</p>
-      </div>
-    </a>
-  
-    <a href="/varieties/%E5%B7%9D%E5%86%9C32/" class="card">
-      <div class="card-content">
-        <h3 class="card-title">川农32</h3>
-        <p class="card-description">川审麦20170002</p>
-      </div>
-    </a>
-  
-    <a href="/varieties/%E5%B7%9D%E5%86%9C%E9%BA%A61%E5%8F%B7/" class="card">
-      <div class="card-content">
-        <h3 class="card-title">川农麦1号</h3>
-        <p class="card-description">国审麦990001</p>
-      </div>
-    </a>
-  
-    <a href="/varieties/%E5%B7%9D%E5%8F%8C%E9%BA%A61%E5%8F%B7/" class="card">
-      <div class="card-content">
-        <h3 class="card-title">川双麦1号</h3>
-        <p class="card-description">川审麦2013007</p>
-      </div>
-    </a>
-  
-    <a href="/varieties/%E5%B7%9D%E7%B3%AF%E9%BA%A61314/" class="card">
-      <div class="card-content">
-        <h3 class="card-title">川糯麦1314</h3>
-        <p class="card-description">川审麦20190011</p>
-      </div>
-    </a>
-  
-    <a href="/varieties/%E5%B7%9D%E7%B3%AF%E9%BA%A61456/" class="card">
-      <div class="card-content">
-        <h3 class="card-title">川糯麦1456</h3>
-        <p class="card-description">川审麦20190009</p>
-      </div>
-    </a>
-  
-    <a href="/varieties/%E5%B7%9D%E8%82%B214/" class="card">
-      <div class="card-content">
-        <h3 class="card-title">川育14</h3>
-        <p class="card-description">国审麦990002</p>
-      </div>
-    </a>
-  
 </div>
 
 
@@ -2293,39 +2394,13 @@
     
       <footer class="bg-theme-light dark:bg-darkmode-theme-light">
   <div class="container">
-    <div class="row items-center py-10">
+    <div class="row items-center py-0">
       <div class="lg:col-3 mb-8 text-center lg:mb-0 lg:text-left">
         
         <a
           class="navbar-brand inline-block"
           href="/">
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-     
-
-
+         
         </a>
       </div>
       <div class="lg:col-6 mb-8 text-center lg:mb-0">
@@ -2340,7 +2415,7 @@
       </div>
     </div>
   </div>
-  <div class="border-border dark:border-darkmode-border border-t py-7">
+  <div class="border-border dark:border-darkmode-border border-t py-10">
     <div class="text-light dark:text-darkmode-light container text-center">
       <p>
         

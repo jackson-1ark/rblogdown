@@ -3,20 +3,22 @@
   .card-container {
       display: grid;
       grid-template-columns: repeat(5, 1fr); /* 修改为一行四个 */
-      gap: 40px; /* 卡片之间的间隙，可以根据需求调整 */
+      gap: 30px; /* 卡片之间的间隙，可以根据需求调整 */
       justify-content: center; /* 优化内容在容器中的分布 */
-      padding:100px; /* 增加水平方向的留白 */
+      padding:300px; /* 增加水平方向的留白 */
+      padding-bottom: 30px;
+      padding-top: 35px;
+
   }
 
   .card {
-      border: 1px solid #000000;
+      border: 1px solid #757474;
       border-radius: 10px;
-      padding: 30px;
+      padding: 15px;
       transition: transform 0.2s;
-      max-width: 300px; /* 设置卡片的最大宽度 */
       margin: auto; /* 自动居中 */
-      width: 200px;
-      height: 150px;
+      width: 190px;
+      height: 100px;
   }
 
   .card a {
@@ -29,12 +31,14 @@
   }
 
   .card-title {
-      font-size: 1.0em;
+      font-size: 20px;
+      color: #000;
+      font-weight: bold;
       margin-bottom: 5px;
   }
 
   .card-description {
-      font-size: 0.9em;
+      font-size: 14px;
       color: #666;
   }
 </style>
