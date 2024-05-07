@@ -3317,6 +3317,10 @@ input#nav-toggle:checked ~ #nav-menu {
     visibility: visible;
   }
 
+  .group:hover .lg\:group-hover\:opacity-100 {
+    opacity: 1;
+  }
+
   .group:hover .lg\:group-hover\:opacity-50 {
     opacity: 0.5;
   }

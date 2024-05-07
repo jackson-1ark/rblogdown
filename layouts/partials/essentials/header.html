@@ -50,7 +50,7 @@
               </svg>
             </span>
             <ul
-              class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-50">
+              class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-100">
               {{ range .Children }}
                 {{ $childURL := .URL | absLangURL }}
                 {{ $active := eq $childURL $pageURL }}
