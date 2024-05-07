@@ -45,7 +45,10 @@
 
 <!-- 将分页模板引用放在顶部 -->
 {{ partial "components/pagination.html" . }}
-
+<nav
+    class="flex items-center justify-center space-x-3"
+    aria-label="Pagination">
+    
 <div class="card-container">
   {{ range .Paginator.Pages }}
     <a href="{{ .RelPermalink }}" class="card">

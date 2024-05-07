@@ -2073,6 +2073,10 @@ input#nav-toggle:checked ~ #nav-menu {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
+.py-5 {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+}
 .py-\[2\.5px\] {
   padding-top: 2.5px;
   padding-bottom: 2.5px;

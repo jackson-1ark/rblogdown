@@ -2,10 +2,6 @@
 title: "GENOME"
 # meta title
 ---
-<hr>
-
-### GENOME
-
 {{< accordion "[IWGSC CS RefSeq v2.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_018294505.1/)" >}}
 - Submitted GenBank assembly : GCA_018294505.1
 - Cultivar : Chinese Spring
@@ -228,6 +224,4 @@ GCA_902810685.1
 - BioProject : [PRJEB35709](https://www.ncbi.nlm.nih.gov/bioproject/PRJEB35709/)<br>Sequencing and assembly of 5 wheat lines
 {{< /accordion >}}
 
-
-<hr>
 
