@@ -38,29 +38,29 @@ weight = 4
 
 [[main]]
 parent = "NEWS"
-name = "Yield"
-url = "Yield/"
+name = "产量"
+url = "小麦产量/"
 
 
 [[main]]
 parent = "NEWS"
-name = "Disease and drought resistance"
-url = "Disease and drought resistance/"
+name = "抗病抗旱"
+url = "抗病抗旱/"
 
 
 [[main]]
 parent = "NEWS"
-name = "Growth and development"
-url = "Growth and development/"
+name = "生长发育"
+url = "生长发育/"
 
 
 [[main]]
 parent = "NEWS"
-name = "Genetic"
-url = "Genetic/"
+name = "遗传研究"
+url = "遗传研究/"
 
 
 [[main]]
 parent = "NEWS"
-name = "Comprehensive literature"
-url = "Comprehensive literature/"
+name = "中英文文献汇总"
+url = "中英文文献汇总/"
