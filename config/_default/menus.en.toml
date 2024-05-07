@@ -38,7 +38,7 @@ weight = 4
 
 [[main]]
 parent = "NEWS"
-name = "产量"
+name = "小麦产量"
 url = "小麦产量/"
 
 
