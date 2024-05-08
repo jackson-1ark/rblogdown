@@ -41,7 +41,7 @@ link = "contact"
 [search]
 enable = true
 primary_color = "#121212"
-include_sections = ["genome","pages","varieties"]
+include_sections = ["genome","pages"]
 show_image = true
 show_description = true
 show_tags = true
