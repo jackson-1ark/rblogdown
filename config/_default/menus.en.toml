@@ -50,7 +50,7 @@ url = "resistance/"
 [[main]]
 parent = "NEWS"
 name = "生长发育"
-url = "g$d/"
+url = "growth/"
 
 
 [[main]]
