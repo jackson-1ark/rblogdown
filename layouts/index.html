@@ -1,3 +1,10 @@
+<script>
+   let indexURL = "/searchindex.json";
+   let includeSectionsInSearch = ["genome","pages","varieties"];
+   let no_results_for = "No results for";
+   let empty_search_results_placeholder = "Type something to search..";
+</script>
+
 {{ define "main" }}
   <!-- Banner -->
   {{ with .Params.banner }}

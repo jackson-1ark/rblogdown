@@ -861,10 +861,6 @@ select {
   padding-left: calc(var(--bs-gutter-x) / 2);
   margin-top: var(--bs-gutter-y);
 }
-.col-12 {
-  flex: 0 0 auto;
-  width: 100%;
-}
 .order-0 {
   order: 0;
 }
@@ -2073,18 +2069,15 @@ input#nav-toggle:checked ~ #nav-menu {
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
 }
-.py-\[2\.5px\] {
-  padding-top: 2.5px;
-  padding-bottom: 2.5px;
+.py-\[0px\] {
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .pb-6 {
   padding-bottom: 1.5rem;
 }
 .pr-5 {
   padding-right: 1.25rem;
-}
-.pt-14 {
-  padding-top: 3.5rem;
 }
 .text-center {
   text-align: center;
@@ -2094,9 +2087,6 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .text-\[8rem\] {
   font-size: 8rem;
-}
-.text-h3 {
-  font-size: 1.3310000000000004rem;
 }
 .text-xl {
   font-size: 1.25rem;
@@ -3107,11 +3097,6 @@ input#nav-toggle:checked ~ #nav-menu {
     width: 66.66666666666667%;
   }
 
-  .md\:col-9 {
-    flex: 0 0 auto;
-    width: 75%;
-  }
-
   .md\:col-10 {
     flex: 0 0 auto;
     width: 83.33333333333334%;
@@ -3127,11 +3112,6 @@ input#nav-toggle:checked ~ #nav-menu {
   .lg\:col-6 {
     flex: 0 0 auto;
     width: 50%;
-  }
-
-  .lg\:col-7 {
-    flex: 0 0 auto;
-    width: 58.333333333333336%;
   }
 
   .lg\:col-10 {
@@ -3298,10 +3278,6 @@ input#nav-toggle:checked ~ #nav-menu {
 
   .lg\:text-right {
     text-align: right;
-  }
-
-  .lg\:text-h1 {
-    font-size: 1.6105100000000008rem;
   }
 
   .group:hover .lg\:group-hover\:visible {
