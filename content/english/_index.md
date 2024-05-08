@@ -1,4 +1,5 @@
 ---
+title: "WheatInfo"
 # Banner
 banner:
   title: "Welcome to WheatInfo!"
