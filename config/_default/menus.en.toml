@@ -38,28 +38,28 @@ weight = 6
 [[main]]
 parent = "NEWS"
 name = "小麦产量"
-url = "小麦产量/"
+url = "yield/"
 
 
 [[main]]
 parent = "NEWS"
 name = "抗病抗旱"
-url = "抗病抗旱/"
+url = "resistance/"
 
 
 [[main]]
 parent = "NEWS"
 name = "生长发育"
-url = "生长发育/"
+url = "g$d/"
 
 
 [[main]]
 parent = "NEWS"
 name = "遗传研究"
-url = "遗传研究/"
+url = "genetic/"
 
 
 [[main]]
 parent = "NEWS"
 name = "中英文文献汇总"
-url = "中英文文献汇总/"
+url = "assemble/"
