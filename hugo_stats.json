@@ -192,6 +192,7 @@
       "social-icons",
       "space-x-3",
       "sr-only",
+      "sticky",
       "text-[12px]",
       "text-[8rem]",
       "text-black",
@@ -203,6 +204,7 @@
       "text-white",
       "text-xl",
       "theme-switcher",
+      "top-0",
       "top-[4px]",
       "uppercase",
       "w-4",
@@ -211,7 +213,9 @@
       "xl:block",
       "xl:hidden",
       "xl:space-x-",
+      "z-0",
       "z-10",
+      "z-15",
       "z-30"
     ],
     "ids": [

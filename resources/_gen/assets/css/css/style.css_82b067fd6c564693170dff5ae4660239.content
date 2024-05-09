@@ -1927,11 +1927,20 @@ input#nav-toggle:checked ~ #nav-menu {
 .relative {
   position: relative;
 }
+.sticky {
+  position: sticky;
+}
 .right-\[4px\] {
   right: 4px;
 }
+.top-0 {
+  top: 0px;
+}
 .top-\[4px\] {
   top: 4px;
+}
+.z-0 {
+  z-index: 0;
 }
 .z-10 {
   z-index: 10;
